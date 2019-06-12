@@ -18,8 +18,8 @@ p_load(purrr)
 p_load_gh("BillPetti/baseballr")
 p_load(ggplot2)
 p_load(rstudioapi)
-# p_load(googledrive)
-# p_load(openxlsx)
+p_load(googledrive)
+p_load(openxlsx)
 
 setwd("/home/david/dev/forks/pitcherlist/R")
 
